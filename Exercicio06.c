@@ -4,6 +4,7 @@
 int main(void){
 	float raio, area;
 	const float pi = 3.14159265359;
+	
 	printf("Digite o raio do circulo\n");
 	scanf("%f",&raio);
 	area = pi * raio * raio;
