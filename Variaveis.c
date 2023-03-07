@@ -17,6 +17,7 @@ int main (void){
 	printf("Peso = %f e sexo = %c\n",peso,sexo);
 	
 	int idade, ano_atual, ano_nascimento;
+	
 	idade = 19;
 	ano_atual = 2023;
 	ano_nascimento = (ano_atual - idade);
