@@ -12,7 +12,7 @@ int main (void){
 	peso = 5.5;
 	sexo= 'm';
 	
-	// saÃ­da (Quais são as saídas dos dados?)
+	// saída (Quais são as saídas dos dados?)
 	printf("Numero = %i\n", numero);
 	printf("Peso = %f e sexo = %c\n",peso,sexo);
 	
