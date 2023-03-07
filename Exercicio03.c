@@ -1,6 +1,6 @@
-//Construa  um  algoritmo  que  peça  a  temperatura
-//em  graus Fahrenheit  (ºF), transforme e mostre
-//na tela a temperatura em graus Celsius (ºC). C=5*(F-32)/9}
+//Construa  um  algoritmo  que  receba  a  temperatura
+//em  graus Fahrenheit  (ï¿½F), transforme e mostre
+//na tela a temperatura em graus Celsius (ï¿½C). C=5*(F-32)/9}
 
 #include <stdio.h>
 #include <stdlib.h>
